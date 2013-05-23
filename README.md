@@ -1,4 +1,4 @@
 custom-event-manager
 ====================
 
-A Wordpress plugin which allows you to create/manage events and accept online registrations.
+A Wordpress plugin for managing online event registrations.
