@@ -1,0 +1,57 @@
+/* CSS Document */
+#cem-event-left {
+	float: left;
+	width: 375px;
+}
+#cem-event-right {
+	float: left;
+	padding-left: 20px;
+}
+#cem-event-map {
+	margin-top: 20px;
+	border: 1px solid #CC9;
+}
+#cem-event-ticket-order {
+	border-style: dashed;
+	border-width: thin;
+	border-color: black;
+	padding: 10px 10px 10px 10px;
+	background-color: white;
+}
+#cem-registration-page label {
+	display: block;
+	margin: 10px 0px 5px 0px;
+}
+#cem-registration-page h2 {
+	margin: 0px 0px 0px 0px;
+	paddding: 0px;
+}
+#cem-registration-page p {
+	margin: 5px 0px 20px 0px;
+	padding: 0px;
+}
+#cem-registration-page input[type='text'], textarea, select {
+	display: block;
+	margin: 0px;
+	padding: 5px;
+}
+#cem-registration-page input[type='text'] {
+	width: 200px;
+}
+#cem-registration-page textarea {
+	width: 300px;
+	height: 75px;
+}
+#cem-registration-page button {
+	margin: 20px 0px 10px 0px;
+	padding: 10px;
+}
+.clear {
+	width: 1px;
+	height: 1px;
+	clear: both;
+}
+.cem-error {
+	font-weight: bold;
+	color: #C90;
+}
